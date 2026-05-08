@@ -29,7 +29,7 @@ git clone https://github.com/seuusuario/Automacao-python.git
 pip install pyautogui pandas
 
 3. Execute o projeto:
-python main.py
+python codigo.py
 
 
 
